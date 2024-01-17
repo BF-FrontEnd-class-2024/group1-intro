@@ -1,6 +1,6 @@
 # Hello! I'm Daria ✋
 
-![about Daria](./img/dspodina.jpeg)
+![about Daria](./dspodina.jpeg)
 
 Hello everyone! I'm a passionate **Web Developer** with a strong interest in UI
 design. As a future **Full Stack Developer**, I'm going to make the best impact
