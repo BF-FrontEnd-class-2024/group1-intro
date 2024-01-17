@@ -2,7 +2,7 @@
 
 > “Copy-and-Paste was programmed by programmers for programmers actually.”
 
-### Dear Ma’am/Sir
+## Dear Ma’am/Sir
 
 - Prior to this program I did E-learning by myself, I started to learn HTML, CSS
   Javascript, Python, Java from different online platforms like Solo learn, MDN,
@@ -28,6 +28,6 @@
 - I see your program as an opportunity for me to go back to what I'm passionate
   about.
 
-### Sincerely
+## Sincerely
 
 Richelle Pintucan
