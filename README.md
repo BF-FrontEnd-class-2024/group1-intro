@@ -11,14 +11,22 @@ The process includes scheduling a meeting to organize the project and creating
 an issue in the class repository with specific labels and details for tracking
 progress.
 
-[Repo link](https://github.com/BF-FrontEnd-class-2024/group1-intro/tree/main)
+[Our repo link](https://github.com/BF-FrontEnd-class-2024/group1-intro/tree/main)
 
 ## Contributors
 
-### Daria
+### [Daria](/members/daria.md)
 
-### Rohma
+![about Daria](/members/img/dspodina.jpeg)
 
-### Richelle
+### [Rohma](/members/rohma.md)
 
-### Ramya +
+![about Rohma](members/img/rohma.jpeg)
+
+### [Richelle](/members/richelle.md)
+
+![about Richelle](members/img/richelle.png)
+
+### [Ramya](/members/sri12334.md) 
+
+![about Ramya](members/img/ramya.png)
