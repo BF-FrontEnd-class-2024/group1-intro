@@ -11,14 +11,34 @@ The process includes scheduling a meeting to organize the project and creating
 an issue in the class repository with specific labels and details for tracking
 progress.
 
-[Repo link](https://github.com/BF-FrontEnd-class-2024/group1-intro/tree/main)
-
 ## Contributors
 
-### Daria
+| **[Daria](/members/daria.md)**       | **[Rohma](/members/rohma.md)**   |
+| ------------------------------------ | -------------------------------- |
+| ![Daria](/members/img/dspodina.jpeg) | ![Rohma](members/img/rohma.jpeg) |
 
-### Rohma
+| **[Ramya](/members/sri12334.md)** | **[Richelle](/members/richelle.md)**  |
+| --------------------------------- | ------------------------------------- |
+| ![Ramya](members/img/ramya.png)   | ![Richelle](members/img/richelle.png) |
 
-### Richelle
+## Our objectives
 
-### Ramya +
+- **Git & GitHub:**
+
+  - Implemented version control with Git.
+  - Collaborated efficiently using GitHub.
+
+- **Project Management:**
+
+  - Organized tasks and tracked progress.
+
+- **Problem Solving:**
+
+  - Successfully addressed development challenges.
+  - 
+- **Documentation:**
+- 
+  - Utilized README files for project information.
+
+- **Skill Development:**
+  - Improved teamwork and technical skills.
