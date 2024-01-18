@@ -27,6 +27,6 @@ progress.
 
 ![about Richelle](members/img/richelle.png)
 
-### [Ramya](/members/sri12334.md) 
+### [Ramya](/members/sri12334.md)
 
 ![about Ramya](members/img/ramya.png)
