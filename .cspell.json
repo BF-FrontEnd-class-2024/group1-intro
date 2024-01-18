@@ -1,5 +1,5 @@
 {
-  "language": "en"
+  "language": "en",
   "words": [
     "HackYourFutureBelgium",
     "HackYourFuture",
@@ -8,19 +8,13 @@
     "Hicking",
     "Rohma",
     "Richelle",
-    "Ramya",
-    "RICHELLE",
+    "Ramya",,
     "PINTUCAN",
     "Rohma",
     "Technophile",
     "Nepo",
     "RICHELLE",
-    "PINTUCAN",
-    "Technophile",
-    
-    
-
-
+    "Technophile"
   ],
   "ignorePaths": [
     "node_modules/**",
