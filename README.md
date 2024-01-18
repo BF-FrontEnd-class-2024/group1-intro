@@ -11,22 +11,34 @@ The process includes scheduling a meeting to organize the project and creating
 an issue in the class repository with specific labels and details for tracking
 progress.
 
-[Our repo link](https://github.com/BF-FrontEnd-class-2024/group1-intro/tree/main)
-
 ## Contributors
 
-### [Daria](/members/daria.md)
+| **[Daria](/members/daria.md)**       | **[Rohma](/members/rohma.md)**   |
+| ------------------------------------ | -------------------------------- |
+| ![Daria](/members/img/dspodina.jpeg) | ![Rohma](members/img/rohma.jpeg) |
 
-![about Daria](/members/img/dspodina.jpeg)
+| **[Ramya](/members/sri12334.md)** | **[Richelle](/members/richelle.md)**  |
+| --------------------------------- | ------------------------------------- |
+| ![Ramya](members/img/ramya.png)   | ![Richelle](members/img/richelle.png) |
 
-### [Rohma](/members/rohma.md)
+## Our objectives
 
-![about Rohma](members/img/rohma.jpeg)
+- **Git & GitHub:**
 
-### [Richelle](/members/richelle.md)
+  - Implemented version control with Git.
+  - Collaborated efficiently using GitHub.
 
-![about Richelle](members/img/richelle.png)
+- **Project Management:**
 
-### [Ramya](/members/sri12334.md) 
+  - Organized tasks and tracked progress.
 
-![about Ramya](members/img/ramya.png)
+- **Problem Solving:**
+
+  - Successfully addressed development challenges.
+
+- **Documentation:**
+
+  - Utilized README files for project information.
+
+- **Skill Development:**
+  - Improved teamwork and technical skills.
