@@ -8,8 +8,13 @@
     "Hicking",
     "Rohma",
     "Richelle",
-    "Ramya",
-    "Pintucan"
+    "Ramya",,
+    "PINTUCAN",
+    "Rohma",
+    "Technophile",
+    "Nepo",
+    "RICHELLE",
+    "Technophile"
   ],
   "ignorePaths": [
     "node_modules/**",
