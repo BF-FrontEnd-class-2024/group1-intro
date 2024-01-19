@@ -35,10 +35,10 @@ progress.
 - **Problem Solving:**
 
   - Successfully addressed development challenges.
-  - 
+  -
+
 - **Documentation:**
-- 
-  - Utilized README files for project information.
+- - Utilized README files for project information.
 
 - **Skill Development:**
   - Improved teamwork and technical skills.
